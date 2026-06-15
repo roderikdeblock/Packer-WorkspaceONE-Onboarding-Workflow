@@ -6,10 +6,10 @@
 $ErrorActionPreference = "Continue"
 
 $HubInstaller = "C:\Temp\AirwatchAgent.msi"
-$Server       = "ds2060.awmdm.com"
-$GroupID      = "Windows_Staging"
-$Username     = "stage"
-$Password     = "stage123"
+$Server       = "<UEM DS Server>"
+$GroupID      = "<OG ID>"
+$Username     = "<Username>"
+$Password     = "<Password>"
 
 
 
